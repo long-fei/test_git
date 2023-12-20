@@ -1,2 +1,1 @@
-# 练习使用Git
-
+练习使用Git、GitHub
